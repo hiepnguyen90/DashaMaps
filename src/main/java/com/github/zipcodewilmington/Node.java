@@ -12,14 +12,6 @@ public class Node {
         next = null;
     }
 
-    public String getData(){
-        return value;
-
-    }
-    public void setData(String data){
-        this.value = data;
-    }
-
 
     public Node getNext(){
         return next;
